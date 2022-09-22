@@ -1,6 +1,6 @@
 ## Opa! Eu sou Luciano Ferreira 👋
 
-Iniciei em 2022 minha carreira de Desenvolvedor de Software pela SeTi (Secretaria de Tecnologia e Informação), desde então me deram a oportunidade de começar a estudar novas tecnologias com apoio de pessoas com conhecimento. Aproveitei o estudo dessas novas ferramentas para engajar em projetos a parte, como os publicados no meu perfil.
+Iniciei em 2022 minha carreira de Desenvolvedor de Software pela SeTi (Secretaria de Tecnologia e Informação) na UFJ, desde então me deram a oportunidade de começar a estudar novas tecnologias com apoio de pessoas com conhecimento. Aproveitei o estudo dessas novas ferramentas para engajar em projetos a parte, como os publicados no meu perfil.
 
 <div align="center">
   <a href="https://github.com/lucianoneto">
