@@ -9,14 +9,7 @@ Em 2023 consegui a oportunidade de ingressar na Rede Estrela como desenvolvedor 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucianoneto&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianoneto&layout=compact&langs_count=7&theme=gotham"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Luciano-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
-  <img align="center" alt="Luciano-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="Luciano-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" alt="Luciano-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Luciano-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-</div>
-  
+    
   ##
  
 <div>   
