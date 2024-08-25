@@ -5,8 +5,8 @@ Iniciei em 2022 minha carreira de Desenvolvedor de Software pela SeTi (Secretari
 Em 2023 consegui a oportunidade de ingressar na Rede Estrela como desenvolvedor de sistemas e hoje atuo dentro da empresa.
 
 <div align="center">  
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=lucianoneto&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianoneto&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucianoneto&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianoneto&layout=compact&langs_count=7&theme=gotham"/>
 </div>
     
   ##
